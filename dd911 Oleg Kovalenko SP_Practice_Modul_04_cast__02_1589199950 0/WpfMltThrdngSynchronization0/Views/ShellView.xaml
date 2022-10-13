@@ -1,0 +1,19 @@
+<Window x:Class="WpfMltThrdngSynchronization1.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox ItemsSource="{Binding ThreadsSynchronizationResultArr}"/>
+        <StackPanel Grid.Column="1">
+            <Label Content="Value/path to search:"/>
+            <TextBox Text="{Binding ThreadsQuantity}"/>
+            <Button Command="{Binding Exercises1and3Cmd}" Content="Exercises 1 and 3"/>
+            <Button Command="{Binding Exercise2Cmd}" Content="Exercise 2"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

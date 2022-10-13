@@ -1,0 +1,50 @@
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\MVVMCMltiThrdngAsnchrny0.exe.config
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\MVVMCMltiThrdngAsnchrny0.exe
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\MVVMCMltiThrdngAsnchrny0.pdb
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.dll
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.xml
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\Views\ShellView.baml
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\Views\ShellView.g.cs
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0_MarkupCompile.cache
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0_MarkupCompile.lref
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\App.baml
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.g.resources
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.Properties.Resources.resources
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csproj.CopyComplete
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.exe
+C:\Users\pc\source\repos\mt\MVVMCMltiThrdngAsnchrny0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.pdb
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0_MarkupCompile.cache
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0_MarkupCompile.lref
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.exe
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.pdb
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\MVVMCMltiThrdngAsnchrny0.exe.config
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\MVVMCMltiThrdngAsnchrny0.exe
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\MVVMCMltiThrdngAsnchrny0.pdb
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.dll
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.xml
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\Views\ShellView.baml
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\Views\ShellView.g.cs
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\App.baml
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.g.resources
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.Properties.Resources.resources
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\mt\dd911 Oleg Kovalenko SP_HW_Modul_03_cast__02_1589199815 0\MVVMCMltiThrdngAsnchrny0\obj\Debug\MVVMCMltiThrdngAsnchrny0.csproj.CopyComplete

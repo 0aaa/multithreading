@@ -1,0 +1,49 @@
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\WpfMltThrdngProcesses1.exe.config
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\WpfMltThrdngProcesses1.exe
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\WpfMltThrdngProcesses1.pdb
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.dll
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.xml
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\Views\ShellView.baml
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\Views\ShellView.g.cs
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\App.g.cs
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1_MarkupCompile.cache
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1_MarkupCompile.lref
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\App.baml
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.g.resources
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.Properties.Resources.resources
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csproj.CopyComplete
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.exe
+C:\Users\student\source\repos\dd911 Oleg Kovalenko\Net\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.pdb
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\WpfMltThrdngProcesses1.exe.config
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\WpfMltThrdngProcesses1.exe
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\WpfMltThrdngProcesses1.pdb
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.dll
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.xml
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\Views\ShellView.baml
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\Views\ShellView.g.cs
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1_MarkupCompile.cache
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1_MarkupCompile.lref
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\App.baml
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.g.resources
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.Properties.Resources.resources
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.csproj.CopyComplete
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.exe
+C:\Users\pc\source\repos\mt\WpfMltThrdngProcesses1\WpfMltThrdngProcesses1\obj\Debug\WpfMltThrdngProcesses1.pdb

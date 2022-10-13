@@ -1,0 +1,22 @@
+<Window x:Class="WpfMltThrdngAsynchrony0.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox ItemsSource="{Binding ThreadsSynchronizationResultArr}"/>
+        <StackPanel Grid.Column="1">
+            <Label Content="Prime numbers from:"/>
+            <TextBox Text="{Binding ThreadsQuantity}"/>
+            <Label Content="Prime numbers to:"/>
+            <TextBox Text="{Binding FinalValue}"/>
+            <Button Command="{Binding Exercise1Cmd}" Content="Exercise 1"/>
+            <Button Command="{Binding Exercises2and3and4Cmd}" Content="Exercises 2, 3 and 4"/>
+            <Button Command="{Binding Exercise5Cmd}" Content="Exercise 5"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

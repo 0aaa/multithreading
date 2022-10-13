@@ -1,0 +1,53 @@
+<Window x:Class="WpfMltThrdngProcesses1.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Processes"
+        Width="600">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.RowSpan="2" ItemsSource="{Binding Processes}" SelectedItem="{Binding SelectedProcess}"
+                  AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}">
+                    <DataGridTextColumn.Header>
+                        <TextBlock Text="Process id"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding ProcessName}" Width="5*">
+                    <DataGridTextColumn.Header>
+                        <TextBlock Text="Process name"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Column="1">
+            <Label Content="Id:"/>
+            <Label Content="{Binding SelectedProcess.Id}"/>
+            <Label Content="Name:"/>
+            <Label Content="{Binding SelectedProcess.ProcessName}"/>
+            <Label Content="Window:"/>
+            <Label Content="{Binding SelectedProcess.MainWindowTitle}"/>
+            <Label Content="Priority:"/>
+            <Label Content="{Binding SelectedProcess.BasePriority}"/>
+            <Label Content="Machine:"/>
+            <Label Content="{Binding SelectedProcess.MachineName}"/>
+            <Label Content="Paged memory:"/>
+            <Label Content="{Binding SelectedProcess.PagedMemorySize}"/>
+            <Label Content="Paged system memory:"/>
+            <Label Content="{Binding SelectedProcess.PagedSystemMemorySize}"/>
+            <Label Content="Peak paged memory:"/>
+            <Label Content="{Binding SelectedProcess.PeakPagedMemorySize}"/>
+            <Label Content="Responding:"/>
+            <Label Content="{Binding SelectedProcess.Responding}"/>
+        </StackPanel>
+            <Button Grid.Column="1" Grid.Row="1" Command="{Binding EndProcessCmd}" Content="End process"/>
+    </Grid>
+</Window>
